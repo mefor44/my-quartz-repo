@@ -5,6 +5,7 @@ title: Headquarters Top
 https://www.youtube.com/watch?v=zz8To63Oj5U&ab_channel=JonThomasBJJ
 There are few options how to maintain control in this position.
 
+
 # Collar and pants control
 To enter position push opponent's right leg in between yours. Make sure it's not easy for him to retract his left (e.g. by keeping your knees pinched or even dropping your left knee on the floor) In order to control their left leg, grab the outside material on their pants:
 ![[hq-top1-img.png|400]]
