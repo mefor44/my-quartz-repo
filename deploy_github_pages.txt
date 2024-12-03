@@ -1,5 +1,7 @@
+# In order to deploy this on guthub pages create a file: .github/workflows/deploy.yml
+# and copy paste this inside:
+
 name: Deploy Quartz site to GitHub Pages
- # to make it work rename from .deploy.yml to deply.yml
 on:
   push:
     branches:
