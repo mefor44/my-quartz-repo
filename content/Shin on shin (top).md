@@ -1,2 +1,0 @@
-When someone enters shin on shin there are few escapes:
-1. Try to strip their foot. To do so, first move some weight to leg in danger (but not all the weight!). Use your other leg to stomp on opponent's leg, and then do windshield wipers with your trapped leg. Don't go forward, don't allow your opponent to pull you on top of him

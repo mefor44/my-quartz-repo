@@ -1,6 +1,0 @@
----
-tags:
-  - submission
-type:
-  - choke
----

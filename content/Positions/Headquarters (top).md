@@ -1,3 +1,6 @@
+---
+title: Headquarters Top
+---
 
 https://www.youtube.com/watch?v=zz8To63Oj5U&ab_channel=JonThomasBJJ
 There are few options how to maintain control in this position.
@@ -34,8 +37,10 @@ When they turn, try to firstly keep their right leg extended bu pulling their le
 
 
 ## Stabilize the position
-A very stable position is presented below:
-![[hq-top7-img.png|500]]
+A very stable position is presented below: 
+
+![[hq-top7-img.png | center | 300]]
+
 Main points:
 - pants grip
 - collar grip (stiff arm)
@@ -45,3 +50,5 @@ Main points:
 Depending on knee positioning of our opponent we can setup knee cut or smash passes. When you start forcing the knee inward (threatening smash pass) they often respond with opening their knee, and this is a perfect opportunity to attack with a knee cut.  
 
 ## Diving back takes
+
+![[diving-back-take.png|500]]
