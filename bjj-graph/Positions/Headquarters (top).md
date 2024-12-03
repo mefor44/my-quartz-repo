@@ -4,24 +4,24 @@ tags:
   - top-position
 ---
 
-https://www.youtube.com/watch?v=zz8To63Oj5U&ab_channel=JonThomasBJJ
+[Reference video](https://www.youtube.com/watch?v=zz8To63Oj5U&ab_channel=JonThomasBJJ)
 There are few options how to maintain control in this position.
 
 # Collar and pants control
 To enter position push opponent's right leg in between yours. Make sure it's not easy for him to retract his left (e.g. by keeping your knees pinched or even dropping your left knee on the floor) In order to control their left leg, grab the outside material on their pants:
-![[Headquarters (top)-1.png|400]]
+![[Headquarters (top)-1.png | center | 400]]
 Don't grab inside, because it's easier to loop over. After grabbing try to stiff-arm your right arm and pin their shin to the floor.
 Use your left hand to control their collar. This makes it more difficult to sweep you forward and counters them grabbing your collar (with their right arm).
-![[Headquarters (top)-2.png|400]]
+![[Headquarters (top)-2.png | center | 400]]
 An alternative to collar grip is cupping the knee:
-![[Headquarters (top)-3.png|400]]
+![[Headquarters (top)-3.png | center | 400]]
 Use this to setup different attacks (the idea is to push the knee towards you and eventually open that space). See more in [TODO]
 
 ## Opponent's defense
 A good defensive position from bottom is described in [[Headquarters (bottom)]]. Basically they grab your ankle / pants with their left arm and your collar with their right arm.
 
 ### When they try to break the pants grip
-![[Headquarters (top)-4.png|400]]
+![[Headquarters (top)-4.png | center | 400]]
 When they switch from ankle / pants grip to your sleeve, it means your right leg is free to move. Then there are 2 options:
 - [[X pass]]
 - [[Torreando pass]] 
