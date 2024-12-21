@@ -1,3 +1,44 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+article ul, article ol {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+// Reduce spacing around images and reset list indentation
+article img {
+  margin: 0.2rem 0 !important;
+}
+
+article li + p > img:only-child,
+article li + img {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+article ol + p > img:only-child,
+article ol + img {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+// Specifically target paragraphs before lists
+article p:has(+ ul),
+article p:has(+ ol) {
+  margin-bottom: 0 !important;
+}
+
+// Preserve callout styling
+article blockquote {
+  margin: 0.9rem 0 !important;
+  padding: 0.2rem 0.8rem 0.8rem 0.8rem !important;
+  
+  & p {
+    margin: 0 !important;
+  }
+  
+  & ul, & ol {
+    margin-left: 1rem !important;
+  }
+}

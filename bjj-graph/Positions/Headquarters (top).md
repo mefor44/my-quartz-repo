@@ -24,7 +24,7 @@ A good defensive position from bottom is described in [[Headquarters (bottom)]].
 ![[Headquarters (top)-4.png | center | 400]]
 When they switch from ankle / pants grip to your sleeve, it means your right leg is free to move. Then there are 2 options:
 - [[X pass]]
-- [[Torreando pass]] 
+- [[Toreando pass]] 
 
 When they don't hold your leg, don't have a collar grip and open their knee you can attack with [[Longstep pass]]
 
@@ -48,10 +48,17 @@ Main points:
 - collar grip (stiff arm)
 - low base with hip pressing forward (to make it difficult for them to retract their right leg)
 
-## 4 Smash vs knee cut dilemma
-Depending on knee positioning of our opponent we can setup knee cut or smash passes. When you start forcing the knee inward (threatening smash pass) they often respond with opening their knee, and this is a perfect opportunity to attack with a knee cut.  
+## 4 Smash pass vs knee cut dilemma
 
-## 5 Diving back takes
+A very effective way of attacking is switching between knee cut and smash pass threats. In general you cannot just force the pass of your choice, but they idea is that when opponent defends one pass, he exposes himself to another one. 
+
+> [!tip] Important!
+> Depending on knee positioning of our opponent we can setup knee cut or smash passes. When you start forcing the knee inward (threatening smash pass) they often respond with opening their knee, and this is a perfect opportunity to attack with a knee cut.  
+
+## 5 Leandro Lo knee cut
+See [[Knee cut pass]] for more details.
+
+## 6 Diving back takes
 A bit more unorthodox. You can surprise your opponets with this attack, but it requires a slightly different grips. From the initial position (note that we don't have a collar grip here):
 ![[Headquarters (top)-9.png | 600]]
 a good attack direction is to force opponent's right leg down (if you succeeded with that just sit on it and continue passing (todo, how?)). When he opens the knee to the outside, just go for the [[Knee cut pass]]. If they don't, it's a great opportunity to go for diving back take.
@@ -64,5 +71,6 @@ Pushing down with your left leg lifts opponent's hips from the ground, and makes
 2. push with your right leg
 3. (optional) small shrimp
 4. connect chest to the back
+
 ![[Headquarters (top)-12.png | 400]] 
 ![[Headquarters (top)-13.png|400]]

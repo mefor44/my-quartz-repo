@@ -29,7 +29,7 @@ Welcome to my Brazilian Jiu-Jitsu techniques collection. This is a comprehensive
 - [[Submissions/Bow & Arrow choke|Bow & Arrow Choke]]
 
 ## Guard Passes
-- [[Passes/Torreando pass|Torreando Pass]]
+- [[Toreando pass|Torreando Pass]]
 - [[Passes/Knee cut pass|Knee Cut Pass]]
 - [[Passes/Longstep pass|Long Step Pass]]
 - [[Passes/X pass|X Pass]]
